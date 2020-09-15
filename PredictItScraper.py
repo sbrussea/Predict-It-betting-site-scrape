@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 import string
 from datetime import date
 
-# 13 13 13 13
-
 
 def writer(elems):
   today = date.today()
